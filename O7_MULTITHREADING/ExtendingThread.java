@@ -1,4 +1,5 @@
-package MultiThreading;
+package  O7_MULTITHREADING;
+
 class CacMulti extends Thread
 {
     public void run ()
