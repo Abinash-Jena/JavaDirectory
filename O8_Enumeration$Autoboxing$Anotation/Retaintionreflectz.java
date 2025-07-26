@@ -1,4 +1,4 @@
-package O8_Enumeration$Autoboxing$Anotation;
+package O8_ENUMERATION$AUTOBOXING$ANOTATION;
 
 import java.lang.annotation.*;
 import java.lang.reflect.*;

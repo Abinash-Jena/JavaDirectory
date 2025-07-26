@@ -1,4 +1,4 @@
-package O8_Enumeration$Autoboxing$Anotation;
+package O8_ENUMERATION$AUTOBOXING$ANOTATION;
 enum Traffic 
 {
     RED , ORANGE , GREEN

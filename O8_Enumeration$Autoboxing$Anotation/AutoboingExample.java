@@ -1,4 +1,4 @@
-package O8_Enumeration$Autoboxing$Anotation;
+package O8_ENUMERATION$AUTOBOXING$ANOTATION;
 
 public class AutoboingExample {
     public static void main(String[] args) {
