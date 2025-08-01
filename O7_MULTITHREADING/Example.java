@@ -1,4 +1,4 @@
-package MultiThreading;
+package O7_MULTITHREADING;
 class Task1 extends Thread
 {
     public void run ()

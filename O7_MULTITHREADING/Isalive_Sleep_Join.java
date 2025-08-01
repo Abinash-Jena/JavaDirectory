@@ -1,4 +1,4 @@
-package MultiThreading;
+package O7_MULTITHREADING;
 class CacAllMethod extends Thread {
     public void run() {
         for (int i = 0; i <= 3; i++) {

@@ -1,4 +1,4 @@
-package MultiThreading;
+package O7_MULTITHREADING;
 
 public class MainThread {
     public static void main(String[] args) {

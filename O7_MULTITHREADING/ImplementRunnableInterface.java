@@ -1,4 +1,4 @@
-package MultiThreading;
+package O7_MULTITHREADING;
 
 class CacRunnable implements Runnable {
     public void run() {

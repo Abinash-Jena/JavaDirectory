@@ -1,4 +1,4 @@
-package MultiThreading;
+package O7_MULTITHREADING;
 
 class MyThread extends Thread {
     public MyThread(String name) {
