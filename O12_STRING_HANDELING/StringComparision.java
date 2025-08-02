@@ -17,3 +17,4 @@ public class StringComparision {
         System.out.println(url.endsWith(".com"));
     }
 }
+ 
